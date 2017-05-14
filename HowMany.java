@@ -4,7 +4,7 @@ public class HowMany {
 	
 	//어떤 정수값까지 조사할 것인지와 어떤 숫자의 개수를 알고 싶은지 매개변수로 넣어준다
 	public void howMany(int limit, int target){
-		
+		 
 		//문자열로 비교할 것이기 때문에 알고 싶은 숫자를 int에서 String으로 바꿔준다
 		String targ = target + "";
 		
